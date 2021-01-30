@@ -7,3 +7,4 @@ The goal of this project is to create a model that will be able to recognize and
 * Harshit Kumar Jain ([@harshitkumarj](https://github.com/harshitkumarj))
 * Mudit Bhandari ([@mudit2000](https://github.com/mudit2000))
 <br>
+<p><img src='image.png'>
